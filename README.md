@@ -1,31 +1,21 @@
-Backtesting-Page-Development
+# 📊 Backtesting Page Development
 
-⚙️ Setup Instructions
+A React-based Backtesting UI application designed to configure, execute, and analyze trading strategy backtests.
 
-Follow these steps to run the project locally.
+---
 
-1️⃣ Clone Repository
+## ⚙️ Setup Instructions
+
+Follow the steps below to run the project locally.
+
+---
+
+### 1️⃣ Clone the Repository
+
+```bash
 git clone https://github.com/podishettisaisanthosh/Backtesting-Page-Development
 cd Backtesting-Page-Development
+```
+
 
 2️⃣ Install Dependencies
-npm install
-
-3️⃣ Install Tailwind CSS (If fresh setup)
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
-
-4️⃣ Run Application
-npm start
-
-App will run at:
-http://localhost:3000
-
-
-
-
-
-
-
-
-
