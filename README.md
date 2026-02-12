@@ -14,7 +14,7 @@ Follow the steps below to run the project locally.
 
 ```bash
 git clone https://github.com/podishettisaisanthosh/Backtesting-Page-Development
-cd Backtesting-Page-Development
+cd Backtesting-Page-Development/backtest-app
 ```
 
 
